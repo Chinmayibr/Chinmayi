@@ -1,0 +1,6 @@
+🔹 What Is Git?
+Git is an open-source version control system used to manage and track changes in files, particularly in software development projects. It allows multiple people to work on the same project at the same time without interfering with each other’s work. Git also helps maintain a full history of changes, so you can go back to any previous version of the code when needed.
+
+It was created by Linus Torvalds (creator of Linux) in 2005 and is now the most widely used version control tool.
+
+
